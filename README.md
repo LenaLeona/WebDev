@@ -1,2 +1,2 @@
 # WebDev
-My lab for web development as a beginner- Html, CSS, JavaScript, React.js, Node.js, etc.
+Some exercises I took for Web dev- Html, CSS, JavaScript, Node.js, etc.
